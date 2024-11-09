@@ -1,8 +1,13 @@
-
+import Hello from "./Hello";
 
 function App() {
   return (
-    <h1> Hello Susanta ! you create a project using npx module</h1>
+    <>
+    <Hello/>
+    <h1>
+      Hello its First time 
+    </h1>
+    </>
   );
 }
 
